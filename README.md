@@ -1,4 +1,4 @@
-The inputs of the metric code files are in figshare: https://doi.org/10.6084/m9.figshare.30417055.v1
+The inputs of the metric code files are in figshare: https://doi.org/10.6084/m9.figshare.30417055
 
 The outputs are in sheet.
 
